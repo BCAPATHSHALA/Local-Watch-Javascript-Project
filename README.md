@@ -19,7 +19,7 @@ This project is a JavaScript practice exercise focusing on working with date and
 
 ## Screenshot
 
-![App Screenshot](https://raw.githubusercontent.com/BCAPATHSHALA/Color-Schema-Switcher-Project/master/Random%20Color%20Switcher%20Project.png)
+![App Screenshot](https://raw.githubusercontent.com/BCAPATHSHALA/Local-Watch-Javascript-Project/master/LOCAL%20WATCH.png)
 
 ## Features
 
